@@ -446,10 +446,15 @@ The most common language for interacting with relational databases
 
 
 
-## Software APIs
+## Software APIs and System Utilities
+
+### XDG
+Freedesktop standardizes a very large number of things on modern desktop Linux, such as icons, thumbnails, shortcuts, etc
+
+[https://specifications.freedesktop.org/]
 
 ### WSGI and ASGI
-
+Specifies how apps, servers, and plugins interact in python.
 
 ## Cordage 
 
