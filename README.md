@@ -1,10 +1,9 @@
 # awesome-standards
 A celebration of materials, methods, formats, and protocols that are available anywhere and generally work without a fuss.
 
-This list celebrates things that are highly standardized.  Entries should be widely accepted, with only a small number of alternatives covering most of their market, and they should be unlikely to be replaced within the next decade or two.
+Entries should be widely accepted, with only a small number of alternatives covering most of their market, and they should be unlikely to be replaced within the next decade or two.
 
 They should be highly compatible, not pseudo standards with subtle variations between manufacturers, or at least with small enough variation that it can be ignored.
-
 
 
 ## Mechanical 
