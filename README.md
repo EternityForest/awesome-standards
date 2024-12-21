@@ -517,6 +517,10 @@ Ironically, despite having man other uses, it's generally considered a bad idea 
 
 ## Placeholders 
 
+### Memes
+
+Strings like "Steamed Hams" are often used as placeholder texts.
+
 ### Lorem Ipsum
 
 A corrupted form of a text by Cicero.
