@@ -515,7 +515,31 @@ Ironically, despite having man other uses, it's generally considered a bad idea 
 
 
 
+## Placeholders 
 
+### Lorem Ipsum
+
+A corrupted form of a text by Cicero.
+
+>>> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### The Harvard Sentences
+
+This set of very short phrases is often used as examples in audio technology.
+
+### Passwords
+
+hunter2 is a very common example password, named for a classic meme.
+
+### People 
+
+John and Jane Doe are often found in English, while Alice, Bob, and Eve are often used in programming and especially security tech.
+
+The use of John for a toilet may derive from "John" once being a common placeholder for objects as well as possible.
+
+### Programming 
+
+foo, bar, baz, plugh, xyzzy, are all commonly found in English, with foo and bar being overwhelmingly common.
 
 ## Tools
 
