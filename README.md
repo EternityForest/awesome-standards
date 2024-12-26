@@ -30,7 +30,7 @@ FOSS modular 3D printable system for storing small parts on a 42mm grid.
 
 ### 1.75mm filament 
 
-Overwhelmingly common in 3D printing 
+Overwhelmingly common in 3D printing.  The raw filament can be cut by hand into things like hinge pins and connectors.
 
 
 
@@ -82,6 +82,8 @@ There are different variations, but the majority use two groups with 19mm spacin
 These sizes could be considered relatively common in modern devices.
 
 ### AA, AAA
+
+AAA could be considered "The most standard" because devices that have any business using 1.5v batteries are generally so low power than size is a bigger factor than capacity.
 
 ### CR2023
 
@@ -219,6 +221,9 @@ Almost nothing takes over the way Git has. For many it's essentially synonymous 
 
 There are vast numbers of attempts to replace this, many are significantly better, but Bash is everywhere, and for the small set of things a shell is used for in more modern workflows, it's perfectly good.
 
+### Excalidraw
+
+This open web-based drawing app appears to be almost universally loved, is embeddabe in other applications,  and has no real competition as far as I know.
 
 
 
@@ -227,7 +232,7 @@ There are vast numbers of attempts to replace this, many are significantly bette
 
 ### Standard and Olympic weight plates
 
-These plates are used for weightlifting, or anything else that must be weighed down.   Standard is approximately 1 inch and Olympic is 2 inches, with the real size varying, I have heard 52mm hole size quoted for Olympic.
+These plates are used for weightlifting, or anything else that must be weighed down.   Standard is approximately 1 inch hole size,and Olympic is 2 inches, with the real size varying, I have heard 52mm hole size quoted for Olympic.
 
 A 1 inch bar can be and often is used with an adapter sleeve for a 2 inch plate(these can be bought or 3D printed), but the reverse is obviously impossible, so I would consider 2 inches to be the "more standard" plate.
 
@@ -454,6 +459,14 @@ Freedesktop standardizes a very large number of things on modern desktop Linux, 
 
 ### WSGI and ASGI
 Specifies how apps, servers, and plugins interact in python.
+
+### Laguage Server Protocol
+
+Defines how support for programming languages is added to editors like VS Code. Sopported by many editors and most popular languages.
+
+[https://en.wikipedia.org/wiki/Language_Server_Protocol]
+
+
 
 ## Cordage 
 
