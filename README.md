@@ -1,9 +1,18 @@
 # awesome-standards
-A celebration of materials, methods, formats, and protocols that are available anywhere and generally work without a fuss.
+
+A celebration of materials, methods, formats, and protocols that are available anywhere and generally work without a fuss, and which are relevant to average DIYers or working engineers.
 
 Entries should be widely accepted, with only a small number of alternatives covering most of their market, and they should be unlikely to be replaced within the next decade or two.
 
 They should be highly compatible, not pseudo standards with subtle variations between manufacturers, or at least with small enough variation that it can be ignored.
+
+
+These should be things that, if one were to require them for a project tutorial, nobody would be annoyed about having to go get them just for this one project.
+
+
+They should not have any major health, safety, or environmental issues, and they should be relatively fault tolerant, requiring no special storage or handling, and they should still be usable even if they are off brand variants.
+
+Unlike most lists, this one also aims to include a short bit of information on the items and how they are used.
 
 
 ## Mechanical 
@@ -81,6 +90,12 @@ There are different variations, but the majority use two groups with 19mm spacin
 
 These sizes could be considered relatively common in modern devices.
 
+### Chemistries
+
+There are four modern rechargeable types, Li-ion, LiFePo4, Sodium-ion, and NiMh, and two disposable types, alkaline and 3v lithium found in button batteries.  It is very important not to try to recharge a disposable lithium (Although some disposable devices contain proper rechargeable batteries).
+
+There are also 1.5v lithium, lead acid, and many other very specialized, outdated, expensive, or pollutive types that don't belong on this list.
+
 ### AA, AAA
 
 AAA could be considered "The most standard" because devices that have any business using 1.5v batteries are generally so low power than size is a bigger factor than capacity.
@@ -90,12 +105,19 @@ AAA could be considered "The most standard" because devices that have any busine
 Rechargeable versions have very different voltage. Unsuitable for almost anyone except 10+ year standby devices.
 
 ### 18650
+Common in flashlights.
 
 ### 18500
 
+Not easy to mistake for a non-lithium cell or a non-rechargable one.
+
 ### 21700
 
+Common in larger flashlights.
+
 ### 16340
+
+Common in headlamps and pocked sized lights.
 
 
 
@@ -342,7 +364,7 @@ Used in a lot of newer USB-C systems, mostly for smaller precision stuff, with t
 
 #### USB-C
 
-Possible the most beloved connector of all time for average consumers.
+Possibly the most beloved connector of all time for average consumers.
 
 #### Neutrik Speakon
 
@@ -351,6 +373,8 @@ Possible the most beloved connector of all time for average consumers.
 These connectors join bare wire quickly and easily.
 
 #### 2.1mm barrel jacks
+
+Generally used to carry regulated 12v, but there is a lot of other things one can do with them, without creating any risk if accidentally connected.  Splitters can easily be used, unlike with USB which requires active electronics.
 
 #### 3.5mm audio jacks
 
@@ -448,6 +472,7 @@ The most common language for interacting with relational databases
 
 ### DMX512
 
+Nearly all stage lighting is controlled using this protocol, or the IP based ArtNet(Or a variant, but those are usually compatible).
 
 
 ## Software APIs and System Utilities
@@ -475,6 +500,69 @@ Defines how support for programming languages is added to editors like VS Code. 
 4mm wide, theoretically rated to 550lbs. In practice rated to whatever the counterfeit company you bought it from decided to design for.
 
 
+### Knots
+
+In keeping with the goals of this list, these are chosen for a balance of effectiveness, ease of tying, and how widely known they are.
+
+#### Lark's Head
+
+Nearly all lanyards attach to electronics this way.
+
+#### Sheet Bend
+
+A common way to join two ropes which can be doubled for more security.
+
+#### Clove Hitch
+
+Considered to not be ideal for all cases, but it is quick and easy to tie.  Used to attach a rope to a fixed object.
+
+#### Round turn and two half hitches 
+
+A more secure way to connect to a fixed anchor. Includes the clove hitch as a component, by learning one you basically get the other for free.
+
+#### Tautline Hitch
+
+Makes an adjustable-tension loop.  There are several knots with this name, not all are equal, but one seems to be the most widely used.
+
+#### Bowline
+
+Makes a loop at the end of a rope which will not tighten down on an object.
+
+#### Alpine Butterfly Loop
+
+Makes a loop in the middle of a rope without requiring access to the ends.
+
+#### Uni-knot
+
+Usable in modern synthetic cords like braided spectra, a very secure way to attach a line to an object.
+
+#### Stevedore Knot
+
+An excellent way to make a wad at the end of a rope so it doesn't go through a hole
+
+#### Square Knot
+
+Used to tie bundles together. Never use this to tie two ropes together or it might slip.
+
+#### Doubly slipped square knot 
+
+Also known as the shoelace bow.
+
+#### Constrictor knot
+
+This should never be tied around a finger or anything like that, it is nearly impossible to undo, and could be used where one might use a zip tie.
+
+#### Highwayman's Hitch
+
+Pull the quick release tag and this instantly comes undone.
+
+
+### Over-Under coiling 
+
+Not actually a knot, but it is the best way to coil up and store rope and cabling.
+
+
+
 
 ## Misc Materials 
 
@@ -490,9 +578,14 @@ Cheap and also acts as a dry erase surface
 
 Useful for pretty much any temporary mounting, especially keeping things from sliding on a desk.
 
+### Foam
+
+There are many types, but they are often interchangeable, and things like wads of paper towels can even be substituted.
+
+
 ### Orbeez
 
-These are a common solution for both decorative use and weighting things down.
+These are a common solution for both decorative use and weighting things down, but they are a very large choking  hazard.
 
 ### Printer Paper
 
@@ -562,6 +655,10 @@ foo, bar, baz, plugh, xyzzy, are all commonly found in English, with foo and bar
 
 These are tools one could reasonably expected any casual to serious DIYer to have, or quickly obtain.
 
+### Flashlight 
+
+If it's not USB- C rechargeable and doesn't have a replaceable batteries.... Don't bother.
+
 ### Pliers
 
 ### Scissors or EMT shears
@@ -572,23 +669,32 @@ The large scissor like cutters that can go through almost anything
 
 ### 1/8 precision screwdrivers
 
-Anything bigger is less portable and therefore less likely to be on hand if needed. Avoid screw holes too deep for interchangeable bit drivers if possible.
+Anything bigger is less portable and therefore less likely to be on hand if needed. Avoid designing stuff with screw holes too deep for interchangeable bit drivers if possible.
+
+Sets with magnetic cases are the only way I know to avoid lost bits unless you have very good discipline.
 
 ### 1/4 Bazillion in 1 screwdrivers
 
 ### Wire Strippers
 
+There are several kinds. The best choice is the kind that looks like pliers, where the wires go in the head part. Any other kind is expensive or a fussy hassle.
+
+
 ### Digital Multimeter 
 
 Not found universally, but extremely cheap.
 
+
 ### Hammer
+
+The small stubby hammers give the most control, which is probably what one wants for the very occasional work most people do with a hammer.
 
 ### Hex Keys
 
 ### Utility Knife 
 
-Avoid designs that require using these on anything tougher than cardboard if possible, because of difficulty in controlling them.
+Avoid designs that require using these on anything tougher than cardboard if possible, because of difficulty in controlling them. They are banned in some workplaces because accidents are just that common.
+
 
 ### Measuring Tape
 
@@ -603,7 +709,11 @@ People frequently do not have a laptop on hand, ideally ensure that any smart de
 
 ### Butane Lighter
 
+### Sharpening Stones
 
+These are used by grinding a blade on them while keeping a consistent angle. During this process a "burr" forms on the opposite side, which is then removed when you flip the blade, alternating sides with progressively less force and time.
+
+What they don't tell you is that if the burr is too big, it may rip off, leaving some dullness in it's place, and it is hard to feel a burr that is properly sized.  Using a flashlight at the right angle can make very tiny burrs visible, and even just kind of guessing may be a better plan.
 
 
 ## Excluded Items
@@ -615,3 +725,4 @@ Due to short shelf life once opened, it cannot be relied on to "Just kind of alw
 ### Welding equipment of any sort
 
 A classic example of a skill you can't learn in a few minutes from a book of YouTube, and the equipment is large, expensive, and requires power.
+
