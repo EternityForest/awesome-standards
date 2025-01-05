@@ -158,6 +158,10 @@ Amazing how completely these dominate the 2D barcode space!
 
 This document format, if used correctly, will probably be readable in 100 years. Or 1000.
 
+#### Zip
+
+This is so common that many other file formats are actually just renamed zips.  It is not strictly the best format, but it is a standard that works reliably just about anywhere, and the compression performance is usually good enough.
+
 #### PNG
 
 Still the common file format for lossless images such as line drawings.
