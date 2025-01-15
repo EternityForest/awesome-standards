@@ -59,11 +59,49 @@ These pieces have been compatible for decades, and now there are even high quali
 
 ### Velcro
 
-Terrible for frequent use, but there is a semi-standard for it: the movable part has the scratchy side.
+Terrible for frequent use, but there is a semi-standard for it: the movable part usually has the scratchy side.
+
+
+## Numbers
+
+There are many sets of choices for "Preferred numbers", used for things like choosing what sizes of ropes or screws to make, ao that there's a "close enough" value for most purposes, without needing a million different sizes.
+
+### 1, 2.5, 5, 10, 25, 50, etc
+
+This sequence is used on test equipment when you only need enough options to get vaguely close enough.
+
+
+### Practical and Highly Composite Numbers 
+
+These show up everywhere due to how maby ways they can be divided.
+
+## Failure Points
+
+While they are not desirable, they are common and worth documenting, as many different devices fail in common ways.
+
+### Brushed Motors
+
+The brushes are made of carbon and can wear down.  They can sometimes be replaced easily.
+
+### Long projections or cantilevers
+
+Especially when they meet a much wider item at a sharp angle, a lot of sstrain is placed on the base, and it must be pretty strong to be reliable.
+
+### Flash Memory 
+
+It wears out if written too many times, and on some systems suddenly power failure corrupts it's content.
+
+### Switches
+
+Cheap switches fail fairly often. This includes things like rotary encoders.
 
 
 
 ## Paper
+
+### Index Cards
+
+The standard varies by country, but they are definitely common!
 
 ### A4/Letter
 
@@ -283,6 +321,8 @@ Packing tape seems to have three length categories, the small disposable dispens
 
 ### 1/8 and 1/4 Hex driver bits
 
+Most small screws outside a wood shop can be driven with 1/8 bits.
+
 ### #8 and #6 wood screws
 
 Any "medium size" ish screw in the US will probably be one of these two.
@@ -310,6 +350,7 @@ There are many types of ball bearings, but the 608 size found in skateboards is 
 
 These were made for mechanical keyboards, tend to be highly reliable, and are widely cloned by many brands in different variations, all with a common pinout.
 
+Notably, there are sockets available for them.
 
 ### Voltages
 
@@ -382,7 +423,7 @@ Generally used to carry regulated 12v, but there is a lot of other things one ca
 
 #### 3.5mm audio jacks
 
-Widely used for things other than audio.
+Widely used for things other than audio. 
 
 #### 0.1mm header connectors 
 
@@ -580,7 +621,7 @@ Cheap and also acts as a dry erase surface
 
 ### Poster Putty
 
-Useful for pretty much any temporary mounting, especially keeping things from sliding on a desk.
+Useful for pretty much any temporary mounting, especially keeping things from sliding on a desk. Ironically, it is not that great for hanging posters on a wallm
 
 ### Foam
 
@@ -661,7 +702,7 @@ These are tools one could reasonably expected any casual to serious DIYer to hav
 
 ### Flashlight 
 
-If it's not USB- C rechargeable and doesn't have a replaceable batteries.... Don't bother.
+If it's not USB- C rechargeable and doesn't have a replaceable battery, it's probably junk.  But good ones are very cheap and common now.
 
 ### Pliers
 
