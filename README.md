@@ -307,7 +307,11 @@ Other sizes exist, but these two are by far the most common. 0.5 breaks a bit ea
 
 ### Sandpaper
 
-"1/4 sheet" seems to be a pretty universal common size, although there are an insane number of special purposes ones. 
+"1/4 sheet" seems to be a pretty universal common size, although there are an insane number of special purposes ones.  It measures 4.5 x 3.5 inches.
+
+Another size that may even be more common than that is 9 x 3.6, which also seems to be somewhat close to a quarter of a full sheet, just cut a  different way.
+
+90mm x 30mm, sold as 3.5 x 1.2 inch or similar, seems to be a standard for micro detail sanding.
 
 ### No. 11 Blades
 
