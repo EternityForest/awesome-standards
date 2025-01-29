@@ -303,6 +303,11 @@ A 1 inch bar can be and often is used with an adapter sleeve for a 2 inch plate(
 
 ### 0.5 and 0.7mm mechanical pencils
 
+Other sizes exist, but these two are by far the most common. 0.5 breaks a bit easier though, making it hard to say which is "The most standard".
+
+### Sandpaper
+
+"1/4 sheet" seems to be a pretty universal common size, although there are an insane number of special purposes ones. 
 
 ### No. 11 Blades
 
