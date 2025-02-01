@@ -29,6 +29,12 @@ Panel Mount meters and the like use this size.
 
 International tripod thread, common for general use in the US.  A very large range of cheap accessories exists, it's possible to mount almost anything this way.
 
+### VESA Mount
+
+This standard defines how most monitors mount to walls and stands.  20×50, 35×75, 75×75, 50×75, 100×100, 50×100, 100×200, 50×200 are defined, with much larger
+sizes like 600x400 existing.  These larger sizes seem to usually use multiples of 100.  Sizes below the 100×200 or 50×200	seem to use M4 screws.
+
+https://en.wikipedia.org/wiki/Flat_Display_Mounting_Interface
 
 ### ISO Metric Screws
 
