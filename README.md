@@ -179,13 +179,35 @@ Not as widely supported, but nonetheless probably the future of hashing, it seem
 
 Still seems to be the most common block cipher, after decades of use, with no significant progress in breaking it.
 
+## Digital Audio
+
+### Sample Rates
+
+44.1Khz and 48Khz are common.  48KHz is used for most things involving video or video games, and could perhaps be considered the "Most Standard", even though 44.1 is still
+used for music because of it's history with CDs.
+
+Opus has 48KHz as the default,
+
+### Opus 
+
+Essentially has made almost all other audio codecs obsolete in new designs.
+
+### MP3
+
+Due to being one of the first popular standards, MP3 is highly compatible and remains absolutely relevant in 2024 despite Opus being far more bandwidth efficient.
+
 
 ## Data
 
 ### Base64
+Used to encode binary data as text.
+
+### Hexadecimal
+
+Another common way to encoe binary data.
 
 ### BIP-039
-Word list of 2048 words for encoding binary data
+Word list of 2048 words for encoding binary data as readable words.
 
 ### ISO8601
 
@@ -213,15 +235,6 @@ Still the common file format for lossless images such as line drawings.
 ##### SVG
 
 The standard vector graphics format.  There are no other well known competitors.
-
-#### Opus 
-
-Essentially has made almost all other audio codecs obsolete in new designs.
-
-#### MP3
-
-Due to being one of the first popular standards, MP3 is highly compatible and remains absolutely relevant in 2024 despite Opus being far more bandwidth efficient.
-
 
 #### AVIF
 
