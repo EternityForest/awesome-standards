@@ -728,6 +728,10 @@ foo, bar, baz, plugh, xyzzy, are all commonly found in English, with foo and bar
 
 These are tools one could reasonably expected any casual to serious DIYer to have, or quickly obtain.
 
+### Safety 
+
+Nearly every work space will need ear muffs, goggles, gloves of the appropriate variety, and usually some sort of respiratory protection.  Note that personal protective equipment is very low in the heirarchy of controls, it is generally preferred to eliminate the risj completely where possible.
+
 ### Flashlight 
 
 If it's not USB- C rechargeable and doesn't have a replaceable battery, it's probably junk.  But good ones are very cheap and common now.
@@ -735,6 +739,14 @@ If it's not USB- C rechargeable and doesn't have a replaceable battery, it's pro
 ### Pliers
 
 ### Scissors or EMT shears
+
+### Calipers
+
+If digital is used, it should be solar or an absolute position version with real power-off, otherwise it will not "just work"... the battery will probably run out when you need it!  Cheap okes often do not actually turn off, the screen just blanks, and they drain the battery in about a year if idling.
+
+### Permanent and Erasable markers
+
+Packing tape makes anything dry erase!
 
 ### Tinner Snips
 
@@ -746,11 +758,13 @@ Anything bigger is less portable and therefore less likely to be on hand if need
 
 Sets with magnetic cases are the only way I know to avoid lost bits unless you have very good discipline.
 
-### 1/4 Bazillion in 1 screwdrivers
+### 1/4 Bazillion in 1 screwdriver sets
+
+Some projects may require the long extended bit sets if you are not using dedicated fixed handle screwdrivers.
 
 ### Wire Strippers
 
-There are several kinds. The best choice is the kind that looks like pliers, where the wires go in the head part. Any other kind is expensive or a fussy hassle.
+There are several kinds. I think the best choice is the kind that looks like pliers, where the wires go in the head part. They all pretty much work. Any other kind is usually expensive or a fussy hassle.
 
 
 ### Digital Multimeter 
@@ -762,6 +776,11 @@ Not found universally, but extremely cheap.
 
 The small stubby hammers give the most control, which is probably what one wants for the very occasional work most people do with a hammer.
 
+### Framing Square 
+
+### Spirit Level 
+
+
 ### Hex Keys
 
 ### Utility Knife 
@@ -771,12 +790,14 @@ Avoid designs that require using these on anything tougher than cardboard if pos
 
 ### Measuring Tape
 
-Be aware when writing manuals that some people's tapes may only have inches.
+Be aware when writing manuals that some people's tapes may only have inches.  Soft clothing type tapes are cheap and essential for some tasks
 
 
 ### Android or iOS device 
 
-People frequently do not have a laptop on hand, ideally ensure that any smart device related maintenance tasks can be done using a phone.
+People frequently do not have a laptop on hand, ideally ensure that any smart device related maintenance tasks can be done using a phone.  
+
+I would consider Android to be more standard and more reliable than any desktop OS, because practical in more environments.
 
 ### Arc lighter
 
