@@ -382,6 +382,7 @@ Notably, there are sockets available for them.
 
 ### Voltages
 
+Many electronic devices accept one of a few voltage ranges.
 
 #### 90-260v 50/60hz
 
@@ -392,7 +393,7 @@ These are the USB-PD common voltage levels, designing for one of these may make 
 
 ### 9-16v
 
-Approximately range used for automotive-type devices, and things billed as nominally 12v.
+Approximately range used for automotive-type devices.
 
 #### 9-32v
 
@@ -401,6 +402,10 @@ Nominal "24v" devices often need to be designed for this range, because 24v batt
 #### 3.3v
 
 Common for microcontrollers at the moment.
+
+#### 11.5-12.25v
+
+Most devices labeled as 12v do not specify an exact range, and so the voltage should be within a few percent of 12v.
 
 #### 4.5v-5.5v
 
@@ -411,11 +416,23 @@ Default USB power level, usual for anything labelled as "5v". many chips use it 
 In some extreme low power or intermittent use devices, designing for a single alkaline cell is often convenient.
 
 
+
 ### Soldering 
 
 Soldering tip formats are not exactly settled, and they keep inventing more, but there is a small set of common ones, and a large number of less common ones.
 
 I would not consider the 951 tip format a common uncontroversial standard despite the fact that it used to be extremely common, it has no integrated heater and not much cost advantage, it's mostly obsolete.
+
+I especially would consider anything without electronic temperature control and motion sensing automatic shut-off to be substandard.
+
+
+
+#### Lead Free Solder
+
+While it seems that the overwhelming majority of hobbyists still use leaded solder, the process of soldering can spit tiny balls of metal on your work area.
+
+Many claim the risk is minimal, but especially as most commercial electronics uses RoHS compliant solder, lead free seems to be the "most standard" choice for the purposes of this file.
+
 
 #### TS100
 
@@ -427,7 +444,9 @@ Used in many affordable mains-powered stations
 
 #### C210
 
-Used in a lot of newer USB-C systems, mostly for smaller precision stuff, with tips being hard to find.
+Used in a lot of newer USB-C systems, mostly for smaller precision stuff. Larger tips do seem to be becoming available, and I would lean probably lean towards this format if I were buying a new iron.
+
+Both mains and USB irons exist that use it, as do tweezer irons.
 
 
 
