@@ -47,6 +47,17 @@ FOSS modular 3D printable system for storing small parts on a 42mm grid.
 
 Overwhelmingly common in 3D printing.  The raw filament can be cut by hand into things like hinge pins and connectors.
 
+### Pneumatics
+
+#### Quick Connects
+There are two common quick connectors for air tools, called "Automotive" and "Industrial"
+They are visually quite similar.
+
+#### Schrader Valves
+
+These are used internationally as the fill valve on tires, although bike tires may have other valve types.
+
+1lb propane tanks may also use the same valve core.  The cores are replaceable if they become damaged.
 
 
 ### Pipes and Plumbing 
