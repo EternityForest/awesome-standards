@@ -447,18 +447,24 @@ Many claim the risk is minimal, but especially as most commercial electronics us
 
 #### TS100
 
-Used in many USB-C soldering irons
+Used in many USB-C soldering irons.
 
 #### T12
 
-Used in many affordable mains-powered stations
+Used in many affordable mains-powered stations and a few USB irons.
 
 #### C210
 
 Used in a lot of newer USB-C systems, mostly for smaller precision stuff. Larger tips do seem to be becoming available, and I would lean probably lean towards this format if I were buying a new iron.
 
+However, it is meant for smaller tips, and may not have that great of tip selection.
+
 Both mains and USB irons exist that use it, as do tweezer irons.
 
+#### C245
+
+Kind of like a larger version of C210. It seems to ve more expensive and less common,
+although it is probably more versatile.
 
 
 ### Connectors 
