@@ -370,6 +370,17 @@ Any "medium size" ish screw in the US will probably be one of these two.
 
 There are many types of ball bearings, but the 608 size found in skateboards is perhaps the best known.
 
+### Air Filters
+
+Despite the extreme usefulness, there aren't really many standards for small filters.
+There are various standards for large furnace filters, but small air purifiers typically have their own proprietary 
+filter sizes.
+
+The exception is 3M Bayonet-style respirator cartridges. A variety of different filters fit this
+connector, se intended for particulate matter, and dome for mote toxic gasses.
+
+They are sometimes used in 3D printable projects, but commercial air purifiers other than
+masks typically do not use them.
 
 ## Data Storage
 
