@@ -617,7 +617,18 @@ Defines how support for programming languages is added to editors like VS Code. 
 
 ### 550 Paracord
 
-4mm wide, theoretically rated to 550lbs. In practice rated to whatever the counterfeit company you bought it from decided to design for.
+4mm wide, theoretically rated to 550lbs. In practice rated to whatever the counterfeit company you bought it from decided to design for.  According to the internet, it is the most standard and common cord for many kinds of projects, 
+but it is also thicker than needed for many applications.
+
+Even if you do get real 550lbs rated cord, the save working load limit of any rope or cord is a fraction 
+of it's breaking strength, and climbing or fall protection applications require even more  strength because of ahock loads.
+
+You probably want something thinner for simple light-duty stuff.
+
+### 275 Cord
+
+2mm seems to be a common and popular size.  Stiffer cords can be easier to use because you can push them
+through holes, and they don't tangle as much.
 
 
 ### Knots
@@ -722,9 +733,13 @@ This exists in two sizes, mini and full size.  Due to the greater features and p
 These must be considered consumables, they do not last forever 
 
 
-### Synthetic Oil
+### Synthetic Oil and Grease
 
 It can be argued forever about what the best general lubricating oil is, but they mostly all are used interchangeably by non specialists and therefore can be considered a standard product category.
+
+There are a lot of nontoxic or minimally toxic lubricants out there, but they also like to randomly sell some horribly
+poisious ones, for reasons the rest of us can only guess.  Some greases can cause allergic reactions over time.
+
 
 
 ### A4 or letter size paper
@@ -867,3 +882,9 @@ Due to short shelf life once opened, it cannot be relied on to "Just kind of alw
 
 A classic example of a skill you can't learn in a few minutes from a book of YouTube, and the equipment is large, expensive, and requires power.
 
+### Chlorinated Solvent products
+
+This includes things like older versions of Brake Cleanier. Some people love these products,
+but they are considered very dangerous for both the user and the environment, being linked to various chronic 
+health problems.  Some adhesives, especially those for rubber, use them, and there is unfortunately not always 
+an obvious safe alternative to them, but they have been replaced in most cleaning applications.
