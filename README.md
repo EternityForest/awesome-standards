@@ -333,7 +333,20 @@ A 1 inch bar can be and often is used with an adapter sleeve for a 2 inch plate(
 
 ### 0.5 and 0.7mm mechanical pencils
 
-Other sizes exist, but these two are by far the most common. 0.5 breaks a bit easier though, making it hard to say which is "The most standard".
+Other sizes exist, but these two are by far the most common. 
+0.5 is popular, but breaks a bit easier though, making it hard to say which is "The most standard".
+
+Every just carrying a pencil around can break the lead in these, so 0.7 appears to have the edge
+even if 0.5 is a bir more popular in some areas.
+
+### Other pencil sizes
+
+2.8mm is used for carpenter pencils, but considered an odd size for anything else,
+while 2.0mm is pretty widely accepted for art and drafting, wirh some use in carpenter 
+pencils, although possibly with fewer specialty leads available.
+
+1.3 and 0.9 also have some use in rough service type applications, and may occasionally be cheaper,
+but not by much. 2.0mm appears to be "more standard" for heavy duty use.
 
 ### Sandpaper
 
