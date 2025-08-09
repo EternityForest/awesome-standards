@@ -331,13 +331,23 @@ These plates are used for weightlifting, or anything else that must be weighed d
 A 1 inch bar can be and often is used with an adapter sleeve for a 2 inch plate(these can be bought or 3D printed), but the reverse is obviously impossible, so I would consider 2 inches to be the "more standard" plate.
 
 
-### 0.5 and 0.7mm mechanical pencils
+### 0.5mm and 0.7mm mechanical pencils
 
-Other sizes exist, but these two are by far the most common. 
-0.5 is popular, but breaks a bit easier though, making it hard to say which is "The most standard".
+0.5mm breaks easily and may not be ideal for carrying around, but it is precise and
+very popular.
 
-Every just carrying a pencil around can break the lead in these, so 0.7 appears to have the edge
-even if 0.5 is a bir more popular in some areas.
+0.7mm is still highly standard, but now that 0.9 is more widely available, it
+seems like might prefer that if a stronger or bolder pencil is needed.
+
+### 0.9mm
+
+This appears to be the next most common size after 0.5mm and 0.7mm.
+
+It is available cheaply,
+somewhat commonly, but is often mure durable than 0.5 and 0.7.  It has
+a strong claim to being considered "the most standard" despite being less popular,
+it may be more trouble free.
+
 
 ### Other pencil sizes
 
@@ -345,8 +355,8 @@ even if 0.5 is a bir more popular in some areas.
 while 2.0mm is pretty widely accepted for art and drafting, wirh some use in carpenter 
 pencils, although possibly with fewer specialty leads available.
 
-1.3 and 0.9 also have some use in rough service type applications, and may occasionally be cheaper,
-but not by much. 2.0mm appears to be "more standard" for heavy duty use.
+1.3 as some use in rough service type applications, and may occasionally be cheaper
+but not by much, and some might consider it too similar to 0.9 or 2.0.
 
 ### Sandpaper
 
