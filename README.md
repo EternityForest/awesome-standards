@@ -530,6 +530,10 @@ Widely used for things other than audio.
 
 The pluggable screw terminals you sometimes see.
 
+#### Keystone connectors
+
+A variety of connector types are made to fit standard "keystone" wall plates, which have holes that are 14.5mm wide by 16.0mm high.
+
 ### Fuses
 
 #### 5x20mm glass fuses
@@ -548,7 +552,8 @@ Used in higher power applications
 
 #### Full size Automotive Fuses
 
-Still extremely common but becoming fragmented until everyone settles on a mini fuse variant.
+Still extremely common but becoming fragmented until everyone settles on a mini fuse variant.  For this reason, glass fuses could be considered
+"More standard" even though automotive may be technically superior due to the durable plastic body.
 
 
 ### Eurorack
