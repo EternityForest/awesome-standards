@@ -228,6 +228,9 @@ The world standard for encoding date and time as text.
 
 Amazing how completely these dominate the 2D barcode space!
 
+### Semantic Versioning 
+[Semver](https://semver.org/) is the most common way to assign version numbers
+to a project, so that people can get a sense of what kind of change each versions makes.
 
 ### File Formats 
 
