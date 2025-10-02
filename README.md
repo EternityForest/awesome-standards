@@ -29,6 +29,13 @@ Panel Mount meters and the like use this size.
 
 International tripod thread, common for general use in the US.  A very large range of cheap accessories exists, it's possible to mount almost anything this way.
 
+### Cold Shoe
+
+This attachment system is used to mount things like camera flashes, but all manner of adapter hardware is cheaply available.  Accesories slide into the shoe, and usually contain a thumb wheel that is used to apply pressure to the shoe.
+
+The lock may also be in the form of a grub screw in the shoe itself.
+
+
 ### VESA Mount
 
 This standard defines how most monitors mount to walls and stands.  20×50, 35×75, 75×75, 50×75, 100×100, 50×100, 100×200, 50×200 are defined, with much larger
