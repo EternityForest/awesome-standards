@@ -25,6 +25,10 @@ A de facto common hole size. Lots of random stuff uses it.
 
 Panel Mount meters and the like use this size.
 
+### MOLLE
+
+A standard way of attaching accessories to backpacks and similar things.
+
 ### 1/4-20 Screw
 
 International tripod thread, common for general use in the US.  A very large range of cheap accessories exists, it's possible to mount almost anything this way.
@@ -731,6 +735,17 @@ Pull the quick release tag and this instantly comes undone.
 Not actually a knot, but it is the best way to coil up and store rope and cabling.
 
 
+## Carabiners
+
+Very cheap and useful with a few limitations.  Untrusted ones that are not specifically rated for such
+must not be used for climbing applications.
+
+The very cheapest metal ones break if bent backwards even slightly, an internal spring piece snaps out of place, and they are very hard to fix.  It is surprisingly easy to do this without meaning to.
+
+Plastic "Grimlock" carabiners are additionally compatible with MOLLE webbing. They are said to be intentionally designed 
+to beeak under very heavy loads to prevent trapping or injuring people in accidents.  Likely unwise to use for shock loads.
+
+Non locking S biners may not be completely reliable, some report losing their stuff with some versions.
 
 
 ## Misc Materials 
