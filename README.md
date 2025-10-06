@@ -941,3 +941,11 @@ This includes things like older versions of Brake Cleanier. Some people love the
 but they are considered very dangerous for both the user and the environment, being linked to various chronic 
 health problems.  Some adhesives, especially those for rubber, use them, and there is unfortunately not always 
 an obvious safe alternative to them, but they have been replaced in most cleaning applications.
+
+### Bungee cords
+
+These are banned in some workplaces for being dangerous, they are basically slingshots and ammo combined in
+one unit, and very often used in ways that could lead to a hook slipping and going flying.
+
+They are also generally obnoxious, because the force depends on how far they are stretched, unlike ratchet straps
+which offer controlled tightness at any length.
