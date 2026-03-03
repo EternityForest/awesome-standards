@@ -189,6 +189,15 @@ Common in larger flashlights.
 
 Common in headlamps and pocked sized lights.
 
+### Triple AAA rechargeable packs
+
+Many communication devices use these, sometimes with plastic keys impairing compatibility.  
+
+Despite their annoyances, they are often widely available as replacement parts, and used on different devices due to being a rather obvious development from AAA batteries.
+
+Lithium versions are sometimes available, but its rarely clear if the protection chip is sufficient to use in a device not meant for lithium.  
+
+I would avoid it, but if designing a new device, adding lithium or better yet sodium/LiFePo4 compatibility may be worth considering.
 
 
 ## Cryptography
@@ -496,14 +505,6 @@ While it seems that the overwhelming majority of hobbyists still use leaded sold
 
 Many claim the risk is minimal, but especially as most commercial electronics uses RoHS compliant solder, lead free seems to be the "most standard" choice for the purposes of this file.
 
-
-#### TS100
-
-Used in many USB-C soldering irons.
-
-#### T12
-
-Used in many affordable mains-powered stations and a few USB irons.
 
 #### C210
 
@@ -927,6 +928,21 @@ I would consider Android to be more standard and more reliable than any desktop 
 These are used by grinding a blade on them while keeping a consistent angle. During this process a "burr" forms on the opposite side, which is then removed when you flip the blade, alternating sides with progressively less force and time.
 
 What they don't tell you is that if the burr is too big, it may rip off, leaving some dullness in it's place, and it is hard to feel a burr that is properly sized.  Using a flashlight at the right angle can make very tiny burrs visible, and even just kind of guessing may be a better plan.
+
+
+### FRS/PMR radios
+
+Unfortunately, there's no consumer ready, affordable, and widely accepted standard, for walkie talkies.
+
+If you need them, FRS or your countries equivalent is probably the way to go, and you should, if planning to use then a lot, probably go with a NiMh rechargeable pack version from Motorola or the like.
+
+There are other options like MURS, which are often technically superior, but they are less popular.  
+
+With FRS, Ensure you get a 22 channel version, or risk being the only one who can't use the channel someone else already chose.
+
+Also, be aware that public radio systems may be unusable in crowded areas.
+
+
 
 
 ## Excluded Items
