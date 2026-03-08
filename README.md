@@ -93,6 +93,14 @@ These pieces have been compatible for decades, and now there are even high quali
 
 Terrible for frequent use, but there is a semi-standard for it: the movable part usually has the scratchy side.
 
+### Notched-collar 8oz Butane cans 
+
+A wide array of devices run on these cans, often with surprisingly good runtime, and many adapters exist to power or fill various things.
+
+While combustion and disposable consumables are often not ideal for many applications, these seem to be a trusted and common standard for applications that do need small amounts of fuel.
+
+There are other much more suitable standards for larger amounts of fire, and Bic type disposable lighters are still likely the best choice for once-a-month 5 second tasks.
+
 
 ## Numbers
 
