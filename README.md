@@ -760,6 +760,14 @@ to beeak under very heavy loads to prevent trapping or injuring people in accide
 
 Non locking S biners may not be completely reliable, some report losing their stuff with some versions.
 
+## Labelmakers
+
+### P12/Letratag 
+
+There is no one standard label maker tape type, but the 12mm high Letratag/P12 type cartridges are a strong candidate for being the most standard, due to being used by multiple manufacturers, and being available in a wide range of colors.
+
+Most importantly, they are available in fade resistant "thermal transfer", which is very different from just "thermal".
+
 
 ## Misc Materials 
 
