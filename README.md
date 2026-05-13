@@ -779,6 +779,13 @@ These are materials one could feel safe including in an online tutorial. they mu
 
 Cheap and also acts as a dry erase surface 
 
+### Heat Shrink 
+
+#### 3/8" or 9.5mm 3:1
+
+This kind can be used to reinforce USB-C cables and reduce strain, and to hold labels or glow tape onto the ends of the cable, this by itself is enough reason to consider it a highly standard general purpose option.
+
+
 ### Poster Putty
 
 Useful for pretty much any temporary mounting, especially keeping things from sliding on a desk. Ironically, it is not that great for hanging posters on a wallm
