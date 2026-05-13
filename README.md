@@ -781,10 +781,11 @@ Cheap and also acts as a dry erase surface
 
 ### Heat Shrink 
 
-#### 3/8" or 9.5mm 3:1
+#### 3/8" or 9.5mm 3:1 Adhesive Lined
 
 This kind can be used to reinforce USB-C cables and reduce strain, and to hold labels or glow tape onto the ends of the cable, this by itself is enough reason to consider it a highly standard general purpose option.
 
+Not all heat shrink is adhesive lined, you probably want the kind that is.
 
 ### Poster Putty
 
