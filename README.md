@@ -359,6 +359,16 @@ This open web-based drawing app appears to be almost universally loved, is embed
 
 ## Misc
 
+
+### Clothespins 
+
+These are not completely standardized in terms of size, but the majority seem to be roughly the same, enough that one could design things incorporating them without much trouble.
+
+They are usually 3/8 to 1/2 inch, or 10mm to 13mm, and anywhere between just under 3 inches up to 3.5 inches.
+
+If one ever comes apart, and you want to put it back together, the two metal prongs go in the grooves on the opposite side, if you put them in the grooves on the same side, the pin will be very loose, and most people will probably take a while to figure out why.
+
+
 ### Standard and Olympic weight plates
 
 These plates are used for weightlifting, or anything else that must be weighed down.   Standard is approximately 1 inch hole size,and Olympic is 2 inches, with the real size varying, I have heard 52mm hole size quoted for Olympic.
@@ -379,18 +389,20 @@ seems like might prefer that if a stronger or bolder pencil is needed.
 This appears to be the next most common size after 0.5mm and 0.7mm.
 
 It is available cheaply,
-somewhat commonly, but is often mure durable than 0.5 and 0.7.  It has
+somewhat commonly, but is often mure durable than 0.5 and 0.7.  
+
+It has
 a strong claim to being considered "the most standard" despite being less popular,
-it may be more trouble free.
+because it may be more trouble free and less likely to break.
 
 
 ### Other pencil sizes
 
 2.8mm is used for carpenter pencils, but considered an odd size for anything else,
-while 2.0mm is pretty widely accepted for art and drafting, wirh some use in carpenter 
+while 2.0mm is pretty widely accepted for art and drafting, with some use in carpenter 
 pencils, although possibly with fewer specialty leads available.
 
-1.3 as some use in rough service type applications, and may occasionally be cheaper
+1.3mm has some use in rough service type applications, and may occasionally be cheaper
 but not by much, and some might consider it too similar to 0.9 or 2.0.
 
 ### Sandpaper
@@ -405,6 +417,9 @@ Another size that may even be more common than that is 9 x 3.6, which also seems
 
 The common x-acto knife blade
 
+### Utility knife blades
+
+While this is in fact a common standard, they are a terrible choice for a large number of applications, banned in many places because of how easy it is to hurt yourself.  Dedicated concealed blade cutters are much nicer for boxes.
 
 ### 1.88 inch, 3in core tape
 
@@ -579,8 +594,13 @@ Used in higher power applications
 
 #### Full size Automotive Fuses
 
-Still extremely common but becoming fragmented until everyone settles on a mini fuse variant.  For this reason, glass fuses could be considered
-"More standard" even though automotive may be technically superior due to the durable plastic body.
+Still extremely common but becoming fragmented until everyone settles on a mini fuse variant.  
+
+For this reason, glass fuses could be considered "More standard" even though automotive may be technically superior due to the durable plastic body.
+
+Note that these often have limited voltage capability and are not officially usable above 32V.  
+
+Even if they are, using them would invite future people to replace them with an unsuitable one.
 
 
 ### Eurorack
@@ -745,7 +765,7 @@ Pull the quick release tag and this instantly comes undone.
 
 ### Over-Under coiling 
 
-Not actually a knot, but it is the best way to coil up and store rope and cabling.
+Not actually a knot, but it is the best way to coil up and store most rope and cabling.
 
 
 ## Carabiners
@@ -753,7 +773,9 @@ Not actually a knot, but it is the best way to coil up and store rope and cablin
 Very cheap and useful with a few limitations.  Untrusted ones that are not specifically rated for such
 must not be used for climbing applications.
 
-The very cheapest metal ones break if bent backwards even slightly, an internal spring piece snaps out of place, and they are very hard to fix.  It is surprisingly easy to do this without meaning to.
+The same of very cheapest metal ones break if bent backwards even slightly, an internal spring piece snaps out of place, and they are very hard to fix. 
+
+It is surprisingly easy to do this without meaning to on the ones with a U shaped tip on the movable part.
 
 Plastic "Grimlock" carabiners are additionally compatible with MOLLE webbing. They are said to be intentionally designed 
 to beeak under very heavy loads to prevent trapping or injuring people in accidents.  Likely unwise to use for shock loads.
@@ -936,12 +958,19 @@ Avoid designs that require using these on anything tougher than cardboard if pos
 
 Be aware when writing manuals that some people's tapes may only have inches.  Soft clothing type tapes are cheap and essential for some tasks
 
+### Concealed Blade Safety Cutter 
+
+These are unfortunately not standardized, although Martor's replaceable blade version might be a candidate.
+
+The general concept of them, however, is a large improvement over knives if you need to cut up cardboard or open boxes.
+
 
 ### Android or iOS device 
 
 People frequently do not have a laptop on hand, ideally ensure that any smart device related maintenance tasks can be done using a phone.  
 
-I would consider Android to be more standard and more reliable than any desktop OS, because practical in more environments.
+I would consider Android to be more standard and more reliable than just about any desktop OS.
+
 
 ### Arc lighter
 
