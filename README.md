@@ -767,6 +767,15 @@ Pull the quick release tag and this instantly comes undone.
 
 Not actually a knot, but it is the best way to coil up and store most rope and cabling.
 
+## Split Rings and "lobster" Swivel Clips
+
+Combined, these are arguably more useful than carabiners for non-climbing applications, and often much cheaper.
+
+Visually, they seem to be a lot cleaner looking in a lot of cases than even small carabiner.
+
+Flat style split rings seem to be more reliable and easier to use.
+
+
 
 ## Carabiners
 
