@@ -201,11 +201,16 @@ Common in headlamps and pocked sized lights.
 
 Many communication devices use these, sometimes with plastic keys impairing compatibility.  
 
+Some devices may use the middle pins not exposed on these packs to detect when regular non rechargeable batteries have been added.  
+
+Cheap third party packs sometimes use very thin plastic to insulate the unused pins, causing the device to not recognize and charge them unless electrical tape is put on the part that touches the contact.  This can be true even if it looks like the factory plastic insulation is intact.
+
 Despite their annoyances, they are often widely available as replacement parts, and used on different devices due to being a rather obvious development from AAA batteries.
 
 Lithium versions are sometimes available, but its rarely clear if the protection chip is sufficient to use in a device not meant for lithium.  
 
-I would avoid it, but if designing a new device, adding lithium or better yet sodium/LiFePo4 compatibility may be worth considering.
+I would avoid it, but if designing a new device, adding lithium compatibility may be worth considering.
+
 
 
 ## Cryptography
@@ -798,6 +803,12 @@ Non locking S biners may not be completely reliable, some report losing their st
 There is no one standard label maker tape type, but the 12mm high Letratag/P12 type cartridges are a strong candidate for being the most standard, due to being used by multiple manufacturers, and being available in a wide range of colors.
 
 Most importantly, they are available in fade resistant "thermal transfer", which is very different from just "thermal".
+
+Thermal transfer cartridges can usually be recognized by the extra roll of toner ribbon visible if the case is clear.  This really does seem to matter for durability.
+
+Other label tapes are usually also widely cloned, although there could occasionally be unexpected DRM issues or incompatibility if you are not careful.
+
+Regardless of brand, watch out for the thermal only label makers that use a single bare roll of labels rather than a cartridge, they are cheap but do not give you the option to use more durable labels.
 
 
 ## Misc Materials 
