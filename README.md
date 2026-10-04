@@ -798,17 +798,25 @@ Non locking S biners may not be completely reliable, some report losing their st
 
 ## Labelmakers
 
+The most important thing here is avoiding thermal, as opposed to the better thermal transfer labels, as regular thermal can easily fade within a year or less, they are effectively garbage for any permanent use.
+
+Thermal transfer cartridges can usually be recognized by the extra roll of toner ribbon visible if the case is clear.  This really does seem to matter for durability.
+
+Regardless of brand, watch out for the thermal only label makers that use a single bare roll of labels rather than a cartridge, they are cheap but do not give you the option to use more durable labels.
+
+### TZe
+
+Not quite standard, the machines seem to be brother exclusive, but the tapes are widely cloned, and this seems to be a top favorite for durable laminated thermal transfer labels.
+
+
 ### P12/Letratag 
 
 There is no one standard label maker tape type, but the 12mm high Letratag/P12 type cartridges are a strong candidate for being the most standard, due to being used by multiple manufacturers, and being available in a wide range of colors.
 
 Most importantly, they are available in fade resistant "thermal transfer", which is very different from just "thermal".
 
-Thermal transfer cartridges can usually be recognized by the extra roll of toner ribbon visible if the case is clear.  This really does seem to matter for durability.
+Unfortunately, the majority of tapes for this type are not thermal transfer, including some that are sold as if they are.
 
-Other label tapes are usually also widely cloned, although there could occasionally be unexpected DRM issues or incompatibility if you are not careful.
-
-Regardless of brand, watch out for the thermal only label makers that use a single bare roll of labels rather than a cartridge, they are cheap but do not give you the option to use more durable labels.
 
 
 ## Misc Materials 
