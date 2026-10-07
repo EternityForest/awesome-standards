@@ -804,20 +804,26 @@ Thermal transfer cartridges can usually be recognized by the extra roll of toner
 
 Regardless of brand, watch out for the thermal only label makers that use a single bare roll of labels rather than a cartridge, they are cheap but do not give you the option to use more durable labels.
 
+### Clear Labels
+
+Assuming the surface and label have the right contrast, it's hard to overstate how much black on clear or color on clear labels create a very professional look.
+
 ### TZe
 
-Not quite standard, the machines seem to be brother exclusive, but the tapes are widely cloned, and this seems to be a top favorite for durable laminated thermal transfer labels.
+The machines seem to be mostly brother exclusive, but the tapes are widely cloned, and this seems to be a top favorite for durable laminated thermal transfer labels.
+
+There do seem to be a few clone label makers, like those from VolenGo, that can use these, possibly with fewer features than Brother, making them a top candidate for "the most standard", and seemingly a widely liked and practical choice.
+
+Machines tend to be powered by AA batteries and 9v/12v adapters, but this is fairly common. Given the highly random infrequent use, LSD NiMh may be a good choice here.
 
 
 ### P12/Letratag 
 
-There is no one standard label maker tape type, but the 12mm high Letratag/P12 type cartridges are a strong candidate for being the most standard, due to being used by multiple manufacturers, and being available in a wide range of colors.
-
-Most importantly, they are available in fade resistant "thermal transfer", which is very different from just "thermal".
+They are available in fade resistant "thermal transfer", which is very different from just "thermal".
 
 Unfortunately, the majority of tapes for this type are not thermal transfer, including some that are sold as if they are.
 
-
+I would avoid these.
 
 ## Misc Materials 
 
@@ -1013,17 +1019,30 @@ What they don't tell you is that if the burr is too big, it may rip off, leaving
 
 ### FRS/PMR radios
 
-Unfortunately, there's no consumer ready, affordable, and widely accepted standard, for walkie talkies.
+Unfortunately, there's no more modern consumer ready, affordable, and widely accepted standard, for walkie talkies.
 
-If you need them, FRS or your countries equivalent is probably the way to go, and you should, if planning to use then a lot, probably go with a NiMh rechargeable pack version from Motorola or the like.
+If you need them, FRS or your countries equivalent is usually what you wind up using.
 
-There are other options like MURS, which are often technically superior, but they are less popular.  
+There are other license free options like MURS, which are often technically superior, but they are less popular.
 
-With FRS, Ensure you get a 22 channel version, or risk being the only one who can't use the channel someone else already chose.
+#### Channels
 
-Also, be aware that public radio systems may be unusable in crowded areas.
+Note that seems channels are automatically limited to 0.5W, so range will not be as good as on 2W channels, so don't just choose randomly.
+
+#### FRS Selection 
+
+Ensure you get a 22 channel version, or risk being the only one who can't use the channel someone else already chose.  
+
+16 channel radios often use mixed up numbering that doesn't match everything else, 22 channel radios avoid this problem.
 
 
+While FRS itself is standard, there are still an incredible number of low quality radios.  Ones with a top channel knob are easy to accidentally change, and being able to see the battery level is important.
+
+It's still common to see micro USB on these devices, so be very careful.  Also, most radios are not waterproof, which is not ideal.
+
+According to some tests, very cheap ones do sometimes have less range than others.
+
+T600 USB-C versions or the very similar RT45P(which works with normal loose AA NiMh batteries) are likely reasonable waterproof choices.
 
 
 ## Excluded Items
