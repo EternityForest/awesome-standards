@@ -215,6 +215,7 @@ I would avoid it, but if designing a new device, adding lithium compatibility ma
 
 ## Cryptography
 
+
 ### SHA-256
 
 This ancient hash algorithm still seems to be used in security critical applications, and it has hardware support almost everywhere
@@ -310,7 +311,11 @@ Standard for playlist files
 
 #### JSON
 
-The most common format for representing nested data.
+The most common format for representing nested data.  Probably defines most of the mental model of heirarchal data for many developers.
+
+#### TOML
+
+A nicer more human readable format storing data similar to JSON.
 
 #### SQLite
 
@@ -424,7 +429,11 @@ The common x-acto knife blade
 
 ### Utility knife blades
 
-While this is in fact a common standard, they are a terrible choice for a large number of applications, banned in many places because of how easy it is to hurt yourself.  Dedicated concealed blade cutters are much nicer for boxes.
+While this is in fact a common standard, they are a considered a *terrible* choice for a large number of applications, banned in many places because of how easy it is to hurt yourself.  
+
+Dedicated concealed blade cutters are much nicer for boxes.
+
+They have special utility knives that automatically retract the blade the second cutting pressure is no longer applied. While widely disliked, learning to use one may be worth it.
 
 ### 1.88 inch, 3in core tape
 
@@ -711,6 +720,20 @@ You probably want something thinner for simple light-duty stuff.
 through holes, and they don't tangle as much.
 
 
+### Synthetic Ribbon 
+
+Cordage cannot exactly replace this stuff for neck lanyards.
+
+### Natural and Hemp Cord
+
+Probably more useful than the other types put together.
+
+This stuff frays easily and gets wet, but it is cheaper and more aesthetically pleasing than many synthetics, and does not create plastic waste.
+
+This can be used along with a waterproof wood glue to build stiff structures, in a similar way as you might use fiberglass, and it works very well in for that.
+
+
+
 ### Knots
 
 In keeping with the goals of this list, these are chosen for a balance of effectiveness, ease of tying, and how widely known they are.
@@ -807,6 +830,10 @@ Regardless of brand, watch out for the thermal only label makers that use a sing
 ### Clear Labels
 
 Assuming the surface and label have the right contrast, it's hard to overstate how much black on clear or color on clear labels create a very professional look.
+
+### Iron On Labels
+
+These don't seem to be as well known, but are very useful.
 
 ### TZe
 
@@ -930,27 +957,75 @@ These are tools one could reasonably expected any casual to serious DIYer to hav
 
 ### Safety 
 
-Nearly every work space will need ear muffs, goggles, gloves of the appropriate variety, and usually some sort of respiratory protection.  Note that personal protective equipment is very low in the heirarchy of controls, it is generally preferred to eliminate the risj completely where possible.
+Nearly every work space will need ear muffs, goggles, gloves of the appropriate variety, and usually some sort of respiratory protection.  
+
+Note that personal protective equipment is very low in the heirarchy of controls, it is generally preferred to eliminate the risk completely where possible.
+
+#### Earmuffs and Earplugs 
+
+These are not used anywhere near as much as they should be. Many power tools are very dangerous to the ears, even for short-ish periods.
+
+#### Safety Glasses
+
+Buy these in a multi-pack, even if you don't think you need more than one, and leave them everywhere you might need them.
+
+#### Full and Half face bayonet respirators
+
+These are pretty well standard, but not all filters are suitable for all types of pollution.
+
+#### Cut resistant work gloves 
+
+
+
 
 ### Flashlight 
 
 If it's not USB- C rechargeable and doesn't have a replaceable battery, it's probably junk.  But good ones are very cheap and common now.
 
+Nicer lights, both handheld and headlamps, often use the same interface.  short press to turn on, long press to change brightness, short press to turn off, long press *while* off to go into a moonlight mode or a red light mode.
+
+double and triple presses are usually used for turbo, and special features like strobes or colors.
+
+Stay far away from "Anduril" type lights unless you want a much more complicated experience.
+
+#### Headlamps 
+
+There are no real comfort or stability issues with 18650 type lights without a top strap, these are probably one of the most useful types of light, especially the ones with red light.
+
+#### Lanterns
+
+Although largely unnecessary, lights like the CL01 are very nice, but they are annoying if you are doing something where you actually need a more directional light.
+
+
 ### Pliers
 
-### Scissors or EMT shears
+### Scissors
+
+### EMT shears
 
 ### Calipers
 
 If digital is used, it should be solar or an absolute position version with real power-off, otherwise it will not "just work"... the battery will probably run out when you need it!  Cheap okes often do not actually turn off, the screen just blanks, and they drain the battery in about a year if idling.
 
-### Permanent and Erasable markers
+### Lifting Straps
 
-Packing tape makes anything dry erase!
+If you are helping a friend move, you probably want these, and you probably want to take the time to properly rig anything that needs it.
+
+### Permanent Markers
+
+Not quite a substitute for a label maker, but still important.
+
+### Erasable markers
+
+Expo is still the standard here as far as I know.  The brand really does make a difference, there are other respected brands but some ultra-cheap ones are barely visible.
+
+Unless you're using them a lot, chisel tip pretty much completely replaces any need for the fine point, I would not worry about fine tip, or else just get a few fine black.
+
+Remember that packing tape works as a dry erase surface!
 
 ### Tinner Snips
 
-The large scissor like cutters that can go through almost anything 
+The large scissor like cutters that can go through almost anything.
 
 ### 1/8 precision screwdrivers
 
@@ -976,6 +1051,12 @@ Not found universally, but extremely cheap.
 
 The small stubby hammers give the most control, which is probably what one wants for the very occasional work most people do with a hammer.
 
+Swinging one with big swings the way you see framers doing it is a real skill, you will probably not be doing that without practice.
+
+### Rubber Mallet 
+
+Not quite essential, but convenient.
+
 ### Framing Square 
 
 ### Spirit Level 
@@ -990,7 +1071,7 @@ Avoid designs that require using these on anything tougher than cardboard if pos
 
 ### Measuring Tape
 
-Be aware when writing manuals that some people's tapes may only have inches.  Soft clothing type tapes are cheap and essential for some tasks
+Be aware when writing manuals that some people's tapes may only have inches.  Soft clothing type tapes are cheap and essential for some tasks.
 
 ### Concealed Blade Safety Cutter 
 
