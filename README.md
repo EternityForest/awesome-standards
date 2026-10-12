@@ -827,6 +827,12 @@ Thermal transfer cartridges can usually be recognized by the extra roll of toner
 
 Regardless of brand, watch out for the thermal only label makers that use a single bare roll of labels rather than a cartridge, they are cheap but do not give you the option to use more durable labels.
 
+### Flexible Tapes
+
+Originally for wrapping around curves, this stuff seems to work well on flat surfaces too, so I am not sure there's any reason to have both types instead of using flex for everything, especially since many surfaces are not flat.
+
+I am not sure if non-flexible tapes have aa. advantage on flat surfaces or not, but if so it is probably only relevant on rough surfaces. 
+
 ### Clear Labels
 
 Assuming the surface and label have the right contrast, it's hard to overstate how much black on clear or color on clear labels create a very professional look.
