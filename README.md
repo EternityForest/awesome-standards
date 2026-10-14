@@ -17,6 +17,17 @@ Unlike most lists, this one also aims to include a short bit of information on t
 
 ## Mechanical 
 
+### Wood Screws
+
+#### #8
+
+In the US, the #8 screw is overwhelmingly common for general applications that are not either structural or extremely tiny.
+
+There are a few specific lengths that seem to be standard, 1-1/4 is used for attaching 1/2in-ish material to things, 2-1/2 is used for hanging things on studs, and 3/4 is used for screwing very thin stuff directly to wood.
+
+All of these sizes are available in epoxy coated, self tapping, T25 drive, which is very convenient.
+
+
 ### 1 1/8 Hole Panel Mount
 
 A de facto common hole size. Lots of random stuff uses it.
