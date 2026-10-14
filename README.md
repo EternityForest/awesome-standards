@@ -19,6 +19,13 @@ Unlike most lists, this one also aims to include a short bit of information on t
 
 ### Wood Screws
 
+It is extremely important not to hang heavy loads or make safety critical connections without knowing exactly what you're doing,
+the most common screws may not be appropriate for structural applications.
+
+In particular, screws must have a minimum penetration depth into the back surface to be used at their full rated strength.
+
+One common rule is 4 times the diameter(4D) for shear loads, and 8 times the diameter(8D) for pullout loads.
+
 #### #8
 
 In the US, the #8 screw is overwhelmingly common for general applications that are not either structural or extremely tiny.
@@ -26,6 +33,27 @@ In the US, the #8 screw is overwhelmingly common for general applications that a
 There are a few specific lengths that seem to be standard, 1-1/4 is used for attaching 1/2in-ish material to things, 2-1/2 is used for hanging things on studs, and 3/4 is used for screwing very thin stuff directly to wood.
 
 All of these sizes are available in epoxy coated, self tapping, T25 drive, which is very convenient.
+
+#### #14
+
+These seem to be a preferred choice for slightly heavier applications, although true load bearing work requires careful planning and often specialized parts.
+
+Roughly equivalent to 1/4.  The 2-7/8 length of these seems to be considered a a good choice for screwing 2x4s together.
+
+The 8D pullout penetration depth on a 2-7/8 #14 screw is around 2 inches, if the forces are trying to pull the screw out.
+
+Annoyingly, these usually use T30 star drive instead of T25 like others, presumably because they really do need the extra torque.
+
+You will not be able to drive these effectively with a standard screwdriver, or, if you can, it will likely be very obnoxious and slow.  Leverage or impact tools are essential.
+
+#### "most standard" set
+
+Again excluding highly specialized screws, a set might look like:
+
+* #8 3/4 in
+* #8 1-1/4 in
+* #8 2-1/2 in
+* #14 2-7-8 in
 
 
 ### 1 1/8 Hole Panel Mount
