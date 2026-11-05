@@ -673,6 +673,68 @@ Industrial control gear mounts on this
 
 ## Electronics, Prototyping 
 
+### Microcontrollers
+
+
+#### ESP32(RiscV, Xtensa)
+
+The obvious standard WiFi chip everyone uses for anything that isn't made by the thousands, and for lots of stuff that is.
+
+Often has integrated USB bootloaders included in ROM, and they often have built-in JTAG debugging over USB. Top notch choice.
+
+#### Nordic NRF(ARM)
+
+These are very popular in low power Bluetooth devices that need advanced features, but they are not that cheap.
+
+Programs via ARM-SWD.
+
+
+#### WCH Series(RiscV)
+
+Some of the cheapest MCUs out there, with impressive features, including Bluetooth on some, 5V tolerance on some pins, and injection current protection.
+
+Very nice for anything that doesn't need fraction of a mA power consumption, and some newer ones are catching up on low power.
+
+Programs via a relatively cheap WCH-LinkE tool that can also be used as an ARM SWD programmer, for many ARM chips.
+
+#### STM32(ARM)
+
+A very common chip that is sometimes very annoying for hobby level use.  They do not support dynamic pin remapping for most functions, and some advanced features are somewhat of a nuisance to program.
+
+Very common in some industries, but I don't think I would consider them an obvious default first choice without a specific reason.
+
+Programs via a wide range of ARM SWD programmers, but avoid most of the Stlink V2 clones, because they *only* work for STM32, requiring a different programmer for anything else.
+
+
+
+#### RP2040 and RP2350(ARM, RiscV)
+
+These *appear* to be the most standard, very obvious choice for open source devices, largely due to their user friendly bootloader.
+
+However, their IO pins seem to be seriously lacking protection compared to most microcontrollers.  They do not specify any safe injection current level at all, so IO voltage is even more important than with other chips.
+
+In particular, the common use of an RP2040 as a programmer and debug probe often results in the programmer being fried if a ground loop is present, even briefly, the target and programmer should always be on the same power supply to avoid mistakes, if you can't avoid using a picoprobe.
+
+When designing with these, you should probably add extra protection to exposed pins, including programming pins.
+
+I have seen several failure of the IO pins on these, compared to only a handful of failed microcontrollers of any other type on my life, but as far as I know, they are reliable when integrated into a design that protects the IO pins.
+
+All of the failures I have seen, as far as I know, have been fried externally exposed IO pins, almost all likely due to ESD or misconnected programmers, and I don't currently have any hesitation about using these even in commercial devices.
+
+Programs via an ARM SWD interface, but NOT most of the Stlink clones, which do not support multi core chips.  Said to work well with WCH-LinkE programmers.
+
+
+#### Stay Away
+
+Atmega328 and similar Atmegas were everywhere for a long time, but now there are better choices for the same price.  8 bit PICs have a similar story.
+
+
+The MSP430 line is effectively obsolete and deprecated, although it might not be immediately obvious, and the developer experience can be very unpleasant. They usually require dedicated programming tools, although there may be hacks to get around this.
+
+The software does not work right on Linux, you must carefully check that the programming tool you want to use supports the specific chip you have, you may get uninformative error messages, some things need to be configured through special code generation tools that are hard to use.
+
+
+
 
 
 ### Arduino and related devices
