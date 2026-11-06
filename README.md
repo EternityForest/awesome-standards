@@ -721,7 +721,11 @@ I have seen several failure of the IO pins on these, compared to only a handful 
 
 All of the failures I have seen, as far as I know, have been fried externally exposed IO pins, almost all likely due to ESD or misconnected programmers, and I don't currently have any hesitation about using these even in commercial devices.
 
-Programs via an ARM SWD interface, but NOT most of the Stlink clones, which do not support multi core chips.  Said to work well with WCH-LinkE programmers.
+Programs via an ARM SWD interface, but NOT most of the ST-Link clones, which do not support multi-drop SWD.
+
+Do not assume any particular programmer will work with these unless you specifically read someone has tried it, not only will you be disappointed, you will probably get an unclear error message that wasted hours of time, the software will not explicitly say it is not supported.
+
+Unfortunately, you will probably wind up needing a Black Magic probe or similar to work with these reliably.
 
 
 #### Stay Away
